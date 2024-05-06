@@ -1,4 +1,4 @@
-# 802.11-AWGN
+# 802.11a-AWGN
 - Bài tập lớn môn Mô hình hóa hệ thống và các phương pháp mô phỏng số-2-23 (BK01) với mã lớp ET6191-2-23 (BK01)
 - Matlab R2018b
 
